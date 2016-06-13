@@ -1,6 +1,7 @@
 # Monitoring Zimbra Queues
 
-Grant permission to the nagios user:
+Grant permission to the nagios user in visudo:
+
 nagios ALL=(zimbra) NOPASSWD:/opt/zimbra/bin/zmcontrol
 
 
