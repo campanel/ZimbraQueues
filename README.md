@@ -1,4 +1,4 @@
-# Monitorung Zimbra Queues
+# Monitoring Zimbra Queues
 
 Grant permission to the nagios user:
 nagios ALL=(zimbra) NOPASSWD:/opt/zimbra/bin/zmcontrol
